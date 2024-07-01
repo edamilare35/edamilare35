@@ -29,4 +29,3 @@
 
 - [https://www.linkedin.com/in/elijah-dare/](#)
 - [https://x.com/Den35E](#)
-- [Personal Website](#)
