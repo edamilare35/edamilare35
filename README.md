@@ -1,6 +1,6 @@
 # Full Stack & DevSecOps Engineer
 
-👋 Hi, I’m Elijah Damilare Arogedalu! I’m a passionate Full Stack and DevSecOps Engineer with a knack for building robust, scalable, and secure applications.
+👋 Hi, I’m Elijah Damilare Arogedalu! a passionate Full Stack and DevSecOps Engineer with a knack for building robust, scalable, and secure applications.
 
 🔧 **Technologies I Work With:**
 
